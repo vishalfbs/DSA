@@ -1,0 +1,7 @@
+C:\_Vishal\Coding\DSA_Practice\DSA_Practice\bin\Debug\DSA_Practice.exe
+C:\_Vishal\Coding\DSA_Practice\DSA_Practice\bin\Debug\DSA_Practice.pdb
+C:\_Vishal\Coding\DSA_Practice\DSA_Practice\obj\Debug\DSA_Practice.csproj.AssemblyReference.cache
+C:\_Vishal\Coding\DSA_Practice\DSA_Practice\obj\Debug\DSA_Practice.csproj.SuggestedBindingRedirects.cache
+C:\_Vishal\Coding\DSA_Practice\DSA_Practice\obj\Debug\DSA_Practice.csproj.CoreCompileInputs.cache
+C:\_Vishal\Coding\DSA_Practice\DSA_Practice\obj\Debug\DSA_Practice.exe
+C:\_Vishal\Coding\DSA_Practice\DSA_Practice\obj\Debug\DSA_Practice.pdb
