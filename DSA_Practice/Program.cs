@@ -1,4 +1,5 @@
 ﻿using System;
+using DSA_Practice.LinkedList;
 using DSA_Practice.Searching;
 using DSA_Practice.Sorting;
 using DSA_Practice.StringManipulation;
@@ -33,8 +34,19 @@ namespace DSA_Practice
             //Console.WriteLine(StringUtils.ReverseWorld("Hello dear vishal"));
             //Console.WriteLine(StringUtils.isRotation("abcd", "dabc"));
             //Console.WriteLine(StringUtils.removeDuplicated("aabbccdd"));
-            var stringUtils = new StringUtils();
-            Console.WriteLine(stringUtils.PrintFirstIndexInArray(new []{2, 3, 6, 9}, 10));
+           // var stringUtils = new StringUtils();
+           // Console.WriteLine(stringUtils.PrintFirstIndexInArray(new []{2, 3, 6, 9}, 10));
+
+           var lk = new CustomLinkedList();
+           lk.AddToLast(10);
+           /*lk.AddToLast(20);
+           lk.AddToLast(30);
+           lk.AddToLast(40);
+           lk.AddToLast(50);
+           lk.RemoveFirst();*/
+           lk.RemoveFirst();
+           lk.RemoveFirst();
+           lk.Traverse();
         }
     }
     
